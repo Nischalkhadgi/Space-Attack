@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/enemybulletdestroyer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerController.cs" Line="34" Column="42" />
+      <File FileName="Assets/Scripts/enemy.cs" Line="7" Column="32" />
+      <File FileName="Assets/Scripts/EnemyBulletScript.cs" Line="7" Column="32" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="24" Column="27" />
+      <File FileName="Assets/Scripts/playerBulletScript.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/bulletDestroyer.cs" Line="5" Column="47" />
+      <File FileName="Assets/Scripts/enemybulletdestroyer.cs" Line="16" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
